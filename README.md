@@ -1,3 +1,5 @@
+# ARCHIVED: PLEASE USE https://github.com/CefasRepRes/FishRAM-Shiny-App INSTEAD
+
 # FishRAM Shiny App
 
 This guide outlines how to download the necessary materials to run the Fisheries Resource Allocation Model (FishRAM) through a Shiny application. 
